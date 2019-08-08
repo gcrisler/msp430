@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="9.1.0"/>
+	<deviceVariant value="MSP430FR6989"/>
+	<deviceFamily value="MSP430"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="18.12.2.LTS"/>
+	<isElfFormat value="true"/>
+	<linkerCommandFile value="lnk_msp430fr6989.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=lcd_c_ex1_4mux.projectspec.lcd_c_ex1_4mux"/>
+	<origin value="/home/gcrisler/ti/msp430ware_3_80_07_00/driverlib/examples/MSP430FR5xx_6xx/lcd_c/CCS/lcd_c_ex1_4mux.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
